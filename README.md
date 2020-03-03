@@ -74,11 +74,10 @@
         </h2>
         <hr>
         <ul>
-            <li>
-                <h3>
-                    Download Node js
-                </h3>
-
+         <li>
+             <h3>
+                 Download Node js
+              </h3>
             </li>
         </ul>
         <p>
@@ -92,7 +91,6 @@
                 <h3>
                     Installing ionic
                 </h3>
-
             </li>
         </ul>
         <p>
@@ -100,7 +98,6 @@
             preferred method of installation, as it offers a wide range of dev tools and help options along the way. It
             is
             also the main tool through which to run the app and connect it to other services, such as Ionic Appflow.
-
             <code style="font-size: medium; color: blue;">
                 npm install -g ionic 
             </code>
@@ -109,7 +106,6 @@
             <a
                 href="https://ionicframework.com/docs/faq/glossary#npm">https://ionicframework.com/docs/faq/glossary#npm</a>
         </p>
-
         <ul>
             <li>
                 <h3>unzip the file.</h3>
