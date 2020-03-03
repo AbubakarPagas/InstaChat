@@ -9,3 +9,18 @@
         SASS file for styling make it very beautiful looking UI.
 
     </p>
+ <div class="login">
+        <!-- for the login user Reviewers1 -->
+        <img src="resurces/login.png" alt="login" srcset="">
+        <div>
+            <ul>
+                <li>User can login with Email and Password</li>
+                <li>When no connection will notify to user.</li>
+                <li>Forget Password for user credential.</li>
+                <li>User can Register new account.</li>
+                <li>User Login with Facebook Account.</li>
+                <li>User login with Google Account.</li>
+                <li>Email Authentication.</li>
+            </ul>
+        </div>
+    </div>
